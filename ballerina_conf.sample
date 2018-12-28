@@ -1,0 +1,12 @@
+DATABASE_HOST="<your_host>"
+DATABASE_PORT="<your_port>"
+DATABASE_NAME="<db_name>"
+DATABASE_USERNAME="<your_username>"
+DATABASE_PASSWORD="<your_password>"
+DATABASE_POOL_SIZE=<pool_size_in_number>
+
+STU_SUBMISSION_URI="<student_submission_url_eg:http://localhost:9006>"student_submission_url
+STU_SUBMISSION_HTTP_PORT=<student_submission_port>
+
+[b7a.log]
+level="INFO"
